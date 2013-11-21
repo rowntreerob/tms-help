@@ -9,6 +9,7 @@ webapp - Teacher moderated student groups for sharing stories.*
   1. [Installation](#install)
   1. [New Users](#users)
   1. [Class Groups](#groups)
+  1. [App Home](http://damp-wildwood-6168.herokuapp.com/tms.html)
 
  
  ## <a name='install'>Install the app</a>

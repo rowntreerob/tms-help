@@ -9,13 +9,13 @@ webapp - Teacher moderated student groups for sharing stories.*
   1. [Installation](#install)
   1. [New Users](#users)
   1. [Class Groups](#groups)
-  1. [App Home](http://damp-wildwood-6168.herokuapp.com/tms.html)
+  1. [App Home](http://damp-wildwood-6168.herokuapp.com/tms.html) - Installs, Youtube How-to's
 
  
  ## <a name='install'>Install the app</a>
 
   - **Required**: Following an install, the first time you start the app 
-   you are asked to confirm Cloud a storage account. This page explains 
+   you are asked to confirm a Cloud storage account. This page explains 
    the online media storage. A click on the blue button signals your agreement.
    The app then creates a single, anonymous user account which is all one 
    needs to experiment ( in the app's single user mode ) creating ebooks, excercising
@@ -70,7 +70,7 @@ webapp - Teacher moderated student groups for sharing stories.*
   will become unreachable. After you have created a new user account(s) for 
   students, you
   may switch
-  between accounts by logging on a new user via the action bar menu. 
+  between accounts by logging on a new user via the action bar menu item labeled *logon*. 
   
  <img src="images/Scr_phn_2.png" alt="confirm cloud account" height="315" width="190">
  
@@ -93,7 +93,7 @@ webapp - Teacher moderated student groups for sharing stories.*
    
   ## <a name='groups'>Class Groups</a>
 
-  - **Admin features**: This uses a separate webApp accessible
+  - **Admin features  - reminder on adding new user for the administrator**: Admin activities uses a separate webApp accessible
   to users who supplied an email in the **New user** step and who then 
   authenticated using manual email reply. Using the app, create a new user for a teacher
   where the email is provided on the new user panel. Click the button to 
@@ -102,7 +102,7 @@ webapp - Teacher moderated student groups for sharing stories.*
   the enclosed link and you should be good to go with the admin steps below.
   
   - **Logon to the Webapp**: Using a browser, [go here](https://tellmestories.parseapp.com "Webapp")
-  for a logon screen where you will use **name and password** from the teacher account created above. 
+  for a logon screen where you will use **name and password** from the teacher/admin account created above. 
   Note that application accounts 
   with authenticated emails can logon to the webapp with the same 
   credentials used in the tablet app **Tell Me Stories**. On the initial login, new users will 
@@ -138,7 +138,7 @@ webapp - Teacher moderated student groups for sharing stories.*
  <img src="images/Scr_input_grp_membr_2.png" alt="Admin Web app" >
 
   - **Repeat**: Input the rest of the students in the class using the 
-  name they registered for themselves over in the Tell Me Stores app. Don't
+  name they registered for themselves over in the *Tell Me Stores* app. Don't
   forget to add the teacher to group so they will have access to media
   created by the students in the group. Here, with 3 students and a teacher
   any media created in Tell Me Stories by any of these 4 users can be 

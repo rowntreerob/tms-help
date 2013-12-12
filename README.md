@@ -8,9 +8,13 @@ webapp - Teacher moderated student groups for sharing stories.*
 
   1. [Installation](#install)
   1. [New Users](#users)
-  1. [Class Groups](#groups)
+  1. [Class Groups- intraclass sharing](#groups)
+  1. [Class Groups- interclass shared stories](#groups2)
   1. [App Home](http://damp-wildwood-6168.herokuapp.com/tms.html) - Installs, Youtube How-to's
-
+  
+ **From the app, a sample booklist in a class where 4 students have shared books to the class group** 
+  
+ <img src="images/Scr_booklist_by_auth.png" alt="intraclass book view" height="315" width="190">
  
  ## <a name='install'>Install the app</a>
 
@@ -142,6 +146,67 @@ webapp - Teacher moderated student groups for sharing stories.*
   forget to add the teacher to group so they will have access to media
   created by the students in the group. Here, with 3 students and a teacher
   any media created in Tell Me Stories by any of these 4 users can be 
-  shared to the group by accessing the **Share** menu in the app.    
+  shared to the group **sf_strmk_5th_rownt** by accessing the **Share** menu 
+  in the app and clicking on the group name.    
    
  <img src="images/Scr_input_grp_membr_3.png" alt="Admin Web app" >
+ 
+  ## <a name='groups2'>Class Groups- Share stories between groups</a>
+
+**Two teachers with 2 separate classes **: Before starting a pen-pal 
+  arrangement among 2 classes, each respective class should be set up as its own 
+  group. (see above sections). Once those 2 groups exist, the process is to
+  include group A in group B and then to include group B in group A. 
+  
+  At that point any book released by a student in group A to group A 
+  will be readable by any member of Group B. and Vice-versa.
+  
+  2 class groups exist, moderated by 2 teachers:
+  
+ "sf_strmk_5th_rownt" by teacher2
+
+ "sanfran_stormkng_6th_rownt"  by rob rowntree
+ 
+ **teacher 2 logs on** and has a view of group(s) that they moderate:
+ 
+ <img src="images/scr_grp3_input1.png" alt="interclass sharing" >
+ 
+ By clicking on the green group icon on the right-hand side, the input screen for
+ adding a group as a subset of another group will come up: 
+ 
+ <img src="images/scr_grp3_in2.png" alt="interclass sharing" > 
+ 
+ **Type in a group to add as a sub-group**: Put the cursor in the field ( or tap the field) 
+  labeled "Type-role-name..". Input the name of the other class group that you want to
+  add to your group. In this case **sf_strmk_5th_rownt** is the parent and 
+  the teacher that owns sf_strmk_5th_rownt is adding 
+   **_sanfran_stormkng_6th** as the subset. 
+   
+ <img src="images/scr_grp3_in3.png" alt="interclass sharing" > 
+ 
+ Hit the enter key to submit and the view will refresh with the child group
+ added to the parent group. Note that when you leave this page and use the link
+ to return to **Home**, if the other
+ teacher has not yet performed the reciprocal action of adding your class as 
+ a subset of their class, you **will not see the child class** again in your main
+ list. Of course it shows up in the list once the other teacher has added 
+ your class group to theirs. 
+ 
+ <img src="images/scr_grp3_in4.png" alt="interclass sharing" > 
+ 
+ For the purpose of this example, the reciprocal action would involve
+ a login by rob rowntree who would have his moderated class , **_sanfran_stormkng_6th_rownt**
+ in the list where he would then click the group icon and add **sf_strmk_5th_rownt** as a 
+ child group. 
+ 
+ **Group maintenance complete. Either teacher will see both class groups**
+ 
+ Stories of student's who choose to **share** to their own class will now 
+ be readable by any member of  the other class.   
+ 
+ 
+ 
+ <img src="images/scr_grp3_in5.png" alt="interclass sharing" > 
+ 
+   
+ 

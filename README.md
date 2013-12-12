@@ -153,7 +153,7 @@ webapp - Teacher moderated student groups for sharing stories.*
  
   ## <a name='groups2'>Class Groups- Share stories between groups</a>
 
-**Two teachers with 2 separate classes **: Before starting a pen-pal 
+  - **Two teachers with 2 separate classes **: Before starting a pen-pal 
   arrangement among 2 classes, each respective class should be set up as its own 
   group. (see above sections). Once those 2 groups exist, the process is to
   include group A in group B and then to include group B in group A. 
